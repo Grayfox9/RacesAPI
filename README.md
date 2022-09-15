@@ -8,7 +8,7 @@ En este README doy detalle en un pequeño resumen.
 -----------------
 ##Subida y relación de datos con MySQL
 -----------------
-##Exportación de atos normalizados a .db
+##Exportación de datos normalizados a .db
 -----------------
 ##Conexión de base de datos con SQLite
 -----------------
@@ -19,4 +19,4 @@ En este README doy detalle en un pequeño resumen.
 ##Deploy en Heroku
 ------------------
 Datos obtenidos en Kaggle.
-Realización hecha por mí.
+Desarrollo realizado por mí.
