@@ -2,6 +2,9 @@
 
 
 En esta ocasión, presento la creación de una API (levantada en Heroku) conectada a una base de datos SQL para la consulta de cuatro consignas especificas.
+
+
+
 En este README doy detalle en un pequeño resumen.
 -----------------
 ##Normalización de los datasets obtenidos
